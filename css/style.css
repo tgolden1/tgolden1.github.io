@@ -1,0 +1,25 @@
+.opening{
+    width:100%;
+    background-color: white;
+
+}
+.opening img {
+display:block;
+margin: auto;
+}
+h1{
+    text-align: center;
+}
+.collapsible-body{
+    background-color: white;
+}
+.tabs .tab{
+    width:32%;
+}
+@media (max-width: 800px)  {
+    .opening img {
+        display:block;
+        margin: auto;
+        width: 75%;
+        }
+}
